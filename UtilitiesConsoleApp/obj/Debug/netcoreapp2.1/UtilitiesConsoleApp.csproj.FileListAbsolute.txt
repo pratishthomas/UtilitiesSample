@@ -1,0 +1,11 @@
+C:\Projects\Net\Study\UtilitiesConsoleApp\bin\Debug\netcoreapp2.1\UtilitiesConsoleApp.deps.json
+C:\Projects\Net\Study\UtilitiesConsoleApp\bin\Debug\netcoreapp2.1\UtilitiesConsoleApp.runtimeconfig.json
+C:\Projects\Net\Study\UtilitiesConsoleApp\bin\Debug\netcoreapp2.1\UtilitiesConsoleApp.runtimeconfig.dev.json
+C:\Projects\Net\Study\UtilitiesConsoleApp\bin\Debug\netcoreapp2.1\UtilitiesConsoleApp.dll
+C:\Projects\Net\Study\UtilitiesConsoleApp\bin\Debug\netcoreapp2.1\UtilitiesConsoleApp.pdb
+C:\Projects\Net\Study\UtilitiesConsoleApp\obj\Debug\netcoreapp2.1\UtilitiesConsoleApp.csprojResolveAssemblyReference.cache
+C:\Projects\Net\Study\UtilitiesConsoleApp\obj\Debug\netcoreapp2.1\UtilitiesConsoleApp.csproj.CoreCompileInputs.cache
+C:\Projects\Net\Study\UtilitiesConsoleApp\obj\Debug\netcoreapp2.1\UtilitiesConsoleApp.AssemblyInfoInputs.cache
+C:\Projects\Net\Study\UtilitiesConsoleApp\obj\Debug\netcoreapp2.1\UtilitiesConsoleApp.AssemblyInfo.cs
+C:\Projects\Net\Study\UtilitiesConsoleApp\obj\Debug\netcoreapp2.1\UtilitiesConsoleApp.dll
+C:\Projects\Net\Study\UtilitiesConsoleApp\obj\Debug\netcoreapp2.1\UtilitiesConsoleApp.pdb
